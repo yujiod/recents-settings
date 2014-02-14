@@ -367,6 +367,124 @@
             "arguments":""
          },
          "button4":null
+      },
+      {
+         "projectType":"cakephp2",
+         "nameRegex":null,
+         "settingsFile":"app/Config/core.php",
+         "image":"cakephp.png",
+         "keyFile":"core.php",
+         "projectRootRelativeToKeyFile":"../../",
+         "filesExistInRoot": [
+            "index.php"
+         ],
+         "ignoreIfFilesInRoot":null,
+         "ignoreIfPathContains":null,
+         "button1":{
+            "name":"Editor",
+            "app":[
+               "Sublime Text",
+               "Sublime Text 2",
+               "Coda 2"
+            ],
+            "arguments":""
+         },
+         "button2":{
+            "name":"Terminal",
+            "app":[
+               "iTerm",
+               "Terminal"
+            ],
+            "arguments":""
+         },
+         "button3":{
+         "name":"Finder",
+         "app":[
+            "Finder"
+         ],
+         "arguments":""
+         },
+         "button4":null
+      },
+      {
+         "projectType":"cakephp",
+         "nameRegex":null,
+         "settingsFile":"app/config/core.php",
+         "image":"cakephp.png",
+         "keyFile":"core.php",
+         "projectRootRelativeToKeyFile":"../../",
+         "filesExistInRoot": [
+            "index.php"
+         ],
+         "ignoreIfFilesInRoot":null,
+         "ignoreIfPathContains":null,
+         "button1":{
+            "name":"Editor",
+            "app":[
+               "Sublime Text",
+               "Sublime Text 2",
+               "Coda 2"
+            ],
+            "arguments":""
+         },
+         "button2":{
+            "name":"Terminal",
+            "app":[
+               "iTerm",
+               "Terminal"
+            ],
+            "arguments":""
+         },
+         "button3":{
+         "name":"Finder",
+         "app":[
+            "Finder"
+         ],
+         "arguments":""
+         },
+         "button4":null
+      },
+      {
+         "projectType":"titanium",
+         "nameRegex":"<name>([^<>]+)</name>",
+         "settingsFile":"tiapp.xml",
+         "image":"titanium.png",
+         "keyFile":"tiapp.xml",
+         "projectRootRelativeToKeyFile":null,
+         "filesExistInRoot":[
+            "tiapp.xml"
+         ],
+         "ignoreIfFilesInRoot":null,
+         "ignoreIfPathContains":[
+            "Application Support"
+         ],
+         "button1":{
+            "name":"Editor",
+            "app":[
+               "Sublime Text",
+               "Sublime Text 2",
+               "TitaniumStudio",
+               "Eclipse",
+               "Coda 2"
+            ],
+            "arguments":""
+         },
+         "button2":{
+            "name":"Terminal",
+            "app":[
+               "iTerm",
+               "Terminal"
+            ],
+            "arguments":""
+         },
+         "button3":{
+            "name":"Finder",
+            "app":[
+               "Finder"
+            ],
+            "arguments":""
+         },
+         "button4":null
       }
    ]
 }
