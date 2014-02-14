@@ -302,6 +302,7 @@
          "ignoreIfFilesInRoot": null,
          "ignoreIfPathContains":[
             "Application Support",
+            "build",
             "bin",
             "gen",
             "out",
